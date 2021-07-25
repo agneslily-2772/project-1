@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    width: 100%;
+    background-color: blue;
+    
+}
+.heading{
+    background-color: red; color: blanchedalmond;
+    height: 100px;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 600;
+}
+.div{
+    background-color:rgb(11, 255, 174);
+    font-size: 20px;
+    font-style: italic;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 5px solid black;
+
+}
+h1{
+    color:purple;
+    font-size: 30px;
+}
+.bottom{
+    color: saddlebrown;
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+    background-color: yellow;
+}
